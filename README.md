@@ -13,8 +13,11 @@ Next, number two: welcome changing requirements even late in development. I thin
 
 Agile processes harness change for the customer's competitive advantage. Facilitate the team in discovering emerging thoughts and ideas that will make the product more valuable. External market changes and feedback from customers continuously influence and the team's help incorporates this feedback into the product backlog and priorities. Changing requirements are good. They mean the product is getting better than previously imagined. 
 
+<img width="100%" alt="Screen Shot 2019-03-13 at 8 53 59 AM" src="https://user-images.githubusercontent.com/23619819/54360062-6058f180-463a-11e9-8bc6-b23cfcd1142b.png">
+
 The third principle, deliver working software frequently, from a couple of weeks to a couple of months with a preference to a shorter timescale. According to Agile Manifesto (no date), by using agile we are uncovering better ways of developing. teams are vital to helping customers, and business leaders realize the intended benefits of a product sooner. The teams slice works into small increments of value and help the team analyze business value, technical dependencies, and technical debt. It can be one thing to build great software and yet a different focus for the team to make it worthwhile from a customer perspective. Many times, discovering the value to customers means experimenting and learning from seeing users use and react to working software. 
 
+<img width="100%" alt="Screen Shot 2019-03-13 at 8 54 43 AM" src="https://user-images.githubusercontent.com/23619819/54360070-68b12c80-463a-11e9-87f4-f5cc0364ab81.png">
 
 And the fourth principle: Business people and developers must work together daily throughout the project. The teams are engaged and available to the team daily. They facilitate continuous conversations throughout the day using high impact collaboration and communication that results in rapid learning and fast decision making. When this is done well, requirements and documentation are kept lightweight. The focus is on dialog rather than cranking up documents.
 
