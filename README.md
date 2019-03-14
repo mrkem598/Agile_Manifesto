@@ -19,7 +19,7 @@ The third principle, deliver working software frequently, from a couple of weeks
 
 <img width="100%" alt="Screen Shot 2019-03-13 at 8 54 43 AM" src="https://user-images.githubusercontent.com/23619819/54360070-68b12c80-463a-11e9-87f4-f5cc0364ab81.png">
 
-And the fourth principle: Business people and developers must work together daily throughout the project. The teams are engaged and available to the team daily. They facilitate continuous conversations throughout the day using high impact collaboration and communication that results in rapid learning and fast decision making. When this is done well, requirements and documentation are kept lightweight. The focus is on dialog rather than cranking up documents.
+And the fourth principle: Business people and developers must work together daily throughout the project. The teams are engaged and available to the team daily. They facilitate continuous conversations throughout the day using high impact collaboration and communication that results in rapid learning and fast decision making. When this is done well, requirements and documentation are kept lightweight. The focus is on dialog rather than cranking up documents. They are the guiding practices that support teams in implementing and executing with agility.
 
 ***
 Reference:
