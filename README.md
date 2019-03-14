@@ -1,6 +1,9 @@
 ***
 # Agile Manifesto 
 ***
+Equipped toward continuous improvement? The agile methodology can greatly increase your project’s prospects for success. Agile is a project management methodology that uses short development cycles called “sprints” to focus on continuous improvement in the development of a product or service.
+Agile was first discussed in depth in the 1970s by William Royce who published a paper on the development of large software systems. Later in 2001, the Agile Manifesto, a "formal proclamation of four key values and 12 principles to guide an iterative and people-centric approach to software development," was published by 17 software developers and presented the first four in this page. 
+
 Agile Manifesto that can bring clarity to what being agile truly means during any project development. I believe it's more than doing agile; it's about being agile in our behaviors and mindset. The principles don't talk about the specific individual requirements for it, but they are still significant for the team role. Here's my take on what each of these means to the team and requirements.
 
 <img width="100%" alt="Screen Shot 2019-03-13 at 8 53 01 AM" src="https://user-images.githubusercontent.com/23619819/54359782-c5f8ae00-4639-11e9-8715-fd755205c3c4.png">
