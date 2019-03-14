@@ -3,9 +3,11 @@
 ***
 Agile Manifesto that can bring clarity to what being agile truly means during any project development. I believe it's more than doing agile; it's about being agile in our behaviors and mindset. The principles don't talk about the specific individual requirements for it, but they are still significant for the team role. Here's my take on what each of these means to the team and requirements.
 
-<img width="747" alt="Screen Shot 2019-03-13 at 8 53 01 AM" src="https://user-images.githubusercontent.com/23619819/54359782-c5f8ae00-4639-11e9-8715-fd755205c3c4.png">
+<img width="100%" alt="Screen Shot 2019-03-13 at 8 53 01 AM" src="https://user-images.githubusercontent.com/23619819/54359782-c5f8ae00-4639-11e9-8715-fd755205c3c4.png">
 
 Number one, according to Angela (2017), our highest priority is to satisfy the customer through early and continuous delivery of valuable software. The teams facilitate the dialog that helps the product owner prioritize what the team builds. The teams understand what will delight users and satisfy customers. The teams support continuous delivery by facilitating the breaking down of functionality into small pieces of value. No one else provides this perspective. Business leaders see large chunks of functionality and the technical team focuses on technical components and functional layers. As we advocate for the users and customers by identifying small increments of value that users can see and experience. The teams define these increments so they can be prioritized, estimated, and worked on efficiently. 
+
+<img width="100%" alt="Screen Shot 2019-03-13 at 8 53 43 AM" src="https://user-images.githubusercontent.com/23619819/54359922-048e6880-463a-11e9-9a7c-7f99f85df79a.png">
 
 Next, number two: welcome changing requirements even late in development. I think this is the most common that will happen in data warehouse development. 
 
